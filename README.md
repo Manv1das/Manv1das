@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasily</h1>
-<h3 align="center">Bachelor CS Student At TUM</h3>
+<h3 align="center">Passionate about Software and Data</h3>
+
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
