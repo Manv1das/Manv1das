@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
-
 - 📫 How to reach me [sizykh.vasily@gmail.com](sizykh.vasily@gmail.com)
 
 
