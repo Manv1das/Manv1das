@@ -6,7 +6,7 @@
 
 📫 How to reach me: [sizykh.vasily@gmail.com](mailto:sizykh.vasily@gmail.com)
 
-<img src="./vibecoder.png" alt="Vibe coder" width="300" />
+<img src="./vibecoder.png" alt="Vibe coder" width="100%" />
 
 ---
 
