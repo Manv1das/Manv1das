@@ -6,9 +6,7 @@
 
 📫 How to reach me: [sizykh.vasily@gmail.com](mailto:sizykh.vasily@gmail.com)
 
-<img src="./assets/vibe-coder.png" alt="Vibe coder" width="300" />
-
-<img src="https://ghchart.rshah.org/1f6feb/Manv1das" alt="Vasily's GitHub contributions" width="100%" />
+<img src="./vibecoder.png" alt="Vibe coder" width="300" />
 
 ---
 
