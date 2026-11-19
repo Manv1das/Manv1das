@@ -1,4 +1,4 @@
-# Vasily 😎🧑‍💻
+# Vasily 😎💻
 
 `Building AI & software for FinTech · MedTech`
 
